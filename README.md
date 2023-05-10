@@ -42,7 +42,7 @@ Comprobar experimentalmente el Análisis de Nodos en el circuito propuesto para 
 
 -CIRCUITO 1
 
-![circuito 1](https://github.com/MauricioFuerez/Informe-1_LAB-Electronica/assets/117534483/247d6c31-fa5a-463e-a131-02836dce0887)
+
 
 -CIRCUITO 2
 
