@@ -8,7 +8,9 @@ Docente: Ing Marco Gualsaqui
 
 Integrantes: -JOSE MAURICIO FUEREZ ARIAS -HENRY SANTIAGO MACIAS HERRERA 
 
-Parcial: 1     Laboratorio Nro: 1 
+Parcial: 1     
+
+Practica deLaboratorio Nro: 1 
 
 1. TEMA: Circutos Recistivos
 
@@ -29,51 +31,35 @@ Comprobar experimentalmente el Análisis de Nodos en el circuito propuesto para 
 2.3 Marco teorico
 
 
-
+-------------------------
 
 
 2.4. MATERIAL Y EQUIPO REQUERIDO
 
-
+---------------
 
 2.5 PROCEDIMIENTO
 
+-CIRCUITO 1
 
+![circuito 1](https://github.com/MauricioFuerez/Informe-1_LAB-Electronica/assets/117534483/9cf788db-ca8f-4b23-8fa1-4c52d130cddd)
 
-3.5.2.	Mida cada uno de los voltajes de nodo y anote los resultados en la tabla 
+-CIRCUITO 2
 
+<img width="510" alt="circuito 2" src="https://github.com/MauricioFuerez/Informe-1_LAB-Electronica/assets/117534483/d52ace33-ecf6-457e-9479-83e785bbe1d9">
 
-Circuito Experimental
+-CIRCUITO 3
 
-
-Análisis de circuito experimental
-
-
-
-Valor medido del NODO Va circuito experimental
-
-
-
-Valor medido del NODO Vb circuito experimental
-
-
-
-Valor medido del NODO VC circuito experimental
-
-
-
+<img width="705" alt="circuito 3" src="https://github.com/MauricioFuerez/Informe-1_LAB-Electronica/assets/117534483/e65706f9-95e4-4063-916d-11bd600e8f80">
 
 Calcular errores de las mediciones y comentar los resultados.
 
-
-
+---------------------------
 
 CONCLUSIONES
 
-- Al realizar el trabajo expermental, analitico y simulado hemos podido corroborar los datos que nos muestran un margen de error mas pequeño tomando en cuenta trabajos anteriores lo cual indica que vamos dominando cada una de las maneras en la nos plantean el trabajo.
-
--La eficiecia al entender los conceptos en el trabajo se ha visto reflejada en el tiempo que nos toma hacer el laboratorio.
+-----------------------
 
 BIBLIOGRAFÍA
 
-*Floyd, T. (2007). Principios de circuitos eléctricos (Ed. 8va). Educación Pearson.
+---------------------------------
