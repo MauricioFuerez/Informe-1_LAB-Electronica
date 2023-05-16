@@ -30,13 +30,18 @@ Comprobar experimentalmente el Análisis de Nodos en el circuito propuesto para 
 
 2.3 Marco teorico
 
+Los circuitos resistivos son circuitos eléctricos que consisten principalmente en elementos resistivos, como resistencias, conectados en serie o en paralelo. Estos circuitos son fundamentales para comprender y analizar los conceptos básicos de la corriente eléctrica y la ley de Ohm.
 
--------------------------
+En un circuito resistivo, la corriente eléctrica fluye a través de las resistencias, creando una caída de voltaje proporcional a la resistencia y la corriente que pasa por ella, de acuerdo con la ley de Ohm (V = I * R). Esto significa que cuanto mayor sea la resistencia, mayor será la caída de voltaje para una corriente dada.
+
+Los circuitos resistivos se utilizan en una amplia variedad de aplicaciones, desde circuitos electrónicos simples hasta sistemas de distribución de energía eléctrica. El análisis y diseño de circuitos resistivos son fundamentales para comprender cómo funcionan y cómo se comportan los componentes eléctricos en diferentes configuraciones.
 
 
 2.4. MATERIAL Y EQUIPO REQUERIDO
 
----------------
+Calculos matematicos de los circuitos previos para el analicis y comparacion, con los re sultados experimentales.
+
+<img width="414" alt="Material" src="https://github.com/MauricioFuerez/Informe-1_LAB-Electronica/assets/117534483/c5a6a0bc-602d-4aa7-b98d-b0384385d1c0">
 
 2.5 PROCEDIMIENTO
 
