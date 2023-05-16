@@ -42,15 +42,15 @@ Comprobar experimentalmente el Análisis de Nodos en el circuito propuesto para 
 
 -CIRCUITO 1
 
-![circuito 1](https://github.com/MauricioFuerez/Informe-1_LAB-Electronica/assets/117534483/6b50441d-4e01-40dc-9d76-a4afcacd8f2d)
+![circuito 1](https://github.com/MauricioFuerez/Informe-1_LAB-Electronica/assets/117534483/020ddec5-5c31-4c23-883b-54f8cfbe1fba)
 
 -CIRCUITO 2
 
-<img width="510" alt="circuito 2" src="https://github.com/MauricioFuerez/Informe-1_LAB-Electronica/assets/117534483/d52ace33-ecf6-457e-9479-83e785bbe1d9">
+<img width="510" alt="circuito 2" src="https://github.com/MauricioFuerez/Informe-1_LAB-Electronica/assets/117534483/23fea7db-65da-48d7-8349-dd3bf25442f3">
 
 -CIRCUITO 3
 
-<img width="705" alt="circuito 3" src="https://github.com/MauricioFuerez/Informe-1_LAB-Electronica/assets/117534483/e65706f9-95e4-4063-916d-11bd600e8f80">
+![circuito 3](https://github.com/MauricioFuerez/Informe-1_LAB-Electronica/assets/117534483/007226e2-153c-48ec-9825-e0e76ffca4e0)
 
 Calcular errores de las mediciones y comentar los resultados.
 
