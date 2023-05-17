@@ -106,11 +106,22 @@ Estos % de error están distribuidos en las tablas de igual forma que en los res
 
 
 
-	Conclusiones: 
+	Conclusiones: En conclusión, al repasar los conocimientos obtenidos sobre circuitos resistivos y ponerlos en práctica, hemos podido aplicar los conceptos y habilidades aprendidas previamente. Hemos comprendido cómo funcionan los circuitos resistivos, cómo calcular la resistencia total en serie y paralelo, cómo calcular la corriente y el voltaje en cada componente, y cómo utilizar las leyes de Kirchhoff.
+
+Al realizar experimentos en el laboratorio, hemos podido comprobar y verificar los resultados obtenidos. La experimentación nos ha permitido confirmar las teorías y fórmulas utilizadas, así como descubrir posibles errores o discrepancias. Además, hemos tenido la oportunidad de observar cómo los cambios en la resistencia emergen el comportamiento de los circuitos y cómo se distribuye la corriente en ellos.
+
+La práctica con circuitos resistivos nos ha proporcionado una comprensión más sólida de los principios eléctricos fundamentales y nos ha dado la capacidad de resolver problemas y diseñar circuitos más complejos en el futuro. Estos conocimientos son aplicados en diversos campos de la ingeniería eléctrica y electrónica, así como en la solución de problemas cotidianos que involucran circuitos resistivos.
 
 	Bibliografía:
 
 	Anexos:
 
+[![w1.jpg](https://i.postimg.cc/DzBtzT57/w1.jpg)](https://postimg.cc/wtRWWnSr)
+
+[![w2.jpg](https://i.postimg.cc/z3ZQQXDF/w2.jpg)](https://postimg.cc/p5CkhvFm)
+
+[![w3.jpg](https://i.postimg.cc/90qS1q2f/w3.jpg)](https://postimg.cc/wRg0jM7K)
+
+[![w4.jpg](https://i.postimg.cc/V6hpjW3T/w4.jpg)](https://postimg.cc/TLrtxg2q)
 
 
